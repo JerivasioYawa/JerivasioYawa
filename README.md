@@ -12,6 +12,7 @@ JavaScript Vue.Js Python Php HTML CSS Java SQL Git
 - Currently in the process of deepening my knowledge in software and web development, and software testing
 
 👯Collaboration Goals: 
--Eager to collaborate on projects that foster both personal and organizational growth, bring forth diverse perspectives to the table and innovative ideas to the world.
+- Eager to collaborate on projects that foster both personal and organizational growth, bring forth diverse perspectives to the table and innovative ideas to the world.
 
 🤝Connect with me:
+- LinkedIn: https://www.linkedin.com/in/ayabonga-yawa/
