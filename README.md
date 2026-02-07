@@ -1,12 +1,12 @@
 ## 👋Hi, I'm Ayabonga Yawa
-
 ✨About Me: 
+
 <img width="480" height="266" alt="image" src="https://github.com/user-attachments/assets/333c7a1a-e28e-4cbc-8c9d-05209cc428a8" />
 
 🌍Junior Software Developer, Passionate about Building scalable Web, Desktop and Mobile Applications 
 
 🛠️Tehnologies and languages:
-JavaScript Vue.Js Python Php HTML CSS Java SQL Git
+- JavaScript Vue.Js Python Php HTML CSS Java SQL Git
 
 🌱Learning Journey: 
 - Currently in the process of deepening my knowledge in software and web development, and software testing
