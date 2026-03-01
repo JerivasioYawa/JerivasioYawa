@@ -15,4 +15,4 @@
 - Eager to collaborate on projects that foster both personal and organizational growth, bring forth diverse perspectives to the table and innovative ideas to the world.
 
 🤝Connect with me:
-- LinkedIn: https://www.linkedin.com/in/ayabonga-yawa/
+- LinkedIn: linkedin.com/in/ayabonga-yawa-b47966239
